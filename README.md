@@ -4,7 +4,7 @@
 ![gif](https://github.com/Easyzhan/CircleProressGradient/blob/master/circleProgress.gif "效果图")
 
 
-··###用法：
+###用法：
 ``直接拖拽CircularProgressView.h/m到项目中去
 ``然后直接   
 ``CircularProgressView *circularView = [[CircularProgressView alloc] initWithFrame:CGRectMake(20, 20, 100, 100)];
